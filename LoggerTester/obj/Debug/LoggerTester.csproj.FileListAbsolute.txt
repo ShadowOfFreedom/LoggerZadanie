@@ -1,0 +1,10 @@
+C:\Wojtek\Logger\LoggerTester\bin\Debug\LoggerTester.exe.config
+C:\Wojtek\Logger\LoggerTester\bin\Debug\LoggerTester.exe
+C:\Wojtek\Logger\LoggerTester\bin\Debug\LoggerTester.pdb
+C:\Wojtek\Logger\LoggerTester\bin\Debug\Logger.dll
+C:\Wojtek\Logger\LoggerTester\bin\Debug\Logger.pdb
+C:\Wojtek\Logger\LoggerTester\obj\Debug\LoggerTester.csprojAssemblyReference.cache
+C:\Wojtek\Logger\LoggerTester\obj\Debug\LoggerTester.csproj.CoreCompileInputs.cache
+C:\Wojtek\Logger\LoggerTester\obj\Debug\LoggerTester.csproj.CopyComplete
+C:\Wojtek\Logger\LoggerTester\obj\Debug\LoggerTester.exe
+C:\Wojtek\Logger\LoggerTester\obj\Debug\LoggerTester.pdb

@@ -1,0 +1,6 @@
+C:\Wojtek\Logger\Logger\bin\Debug\Logger.dll
+C:\Wojtek\Logger\Logger\bin\Debug\Logger.pdb
+C:\Wojtek\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Wojtek\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Wojtek\Logger\Logger\obj\Debug\Logger.dll
+C:\Wojtek\Logger\Logger\obj\Debug\Logger.pdb
