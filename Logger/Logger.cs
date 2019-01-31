@@ -66,7 +66,7 @@ namespace Logger
             }
             catch (FileNotFoundException fileNotFoundExceptione)
             {
-
+                Log(directoryNotFoundExceptione.Message, "Errors.txt");
             }
             catch (Exception e)
             {
